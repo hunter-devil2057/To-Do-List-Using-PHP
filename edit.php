@@ -1,3 +1,4 @@
+<div class="container">
 <?php include('header.php');?>
 
 <?php
@@ -50,3 +51,4 @@
     <input type="submit" name="btnSave" value="Update" class="btn btn-primary">
 
 <?php include('footer.php')?>
+</div>

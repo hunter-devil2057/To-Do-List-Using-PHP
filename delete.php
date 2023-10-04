@@ -1,3 +1,4 @@
+<div class="container">
 <?php
     $conn=new mysqli('localhost', 'root', '', 'todolist');
     $id=$_GET["id"];
@@ -7,3 +8,4 @@
     if($ret)
         header("Location:display.php");
 ?>
+</div>

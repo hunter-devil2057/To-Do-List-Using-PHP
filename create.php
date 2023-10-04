@@ -1,3 +1,4 @@
+<div class="container">
 <?php include('header.php');?>
 
 <?php
@@ -45,3 +46,4 @@
 </form>
 
 <?php include('footer.php')?>
+</div>

@@ -1,3 +1,4 @@
+<div class="container">
 <?php
     include('header.php');?>
 <?php
@@ -32,3 +33,4 @@ session_start();
     Password: <input type="password" name="txtPassword" class="form-control">
     <input type="submit" name="btnLogin" value="Login" class="btn btn-primary">
 </form>
+</div>
